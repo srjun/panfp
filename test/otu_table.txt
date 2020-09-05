@@ -1,0 +1,21 @@
+#OTU ID	S1	S2	S3	S4	S5	S6	S7	S8	Taxon
+OTU_1	128925	155657	128534	155524	117632	245422	132593	192935	
+OTU_3	5885	23625	28630	10987	26981	165037	4865	43893	k__Bacteria;p__Cyanobacteria;c__Oxyphotobacteria
+OTU_4	107216	41079	21235	152715	30765	2509	147039	1085	k__Bacteria;p__Chloroflexi;c__Anaerolineae
+OTU_5	18312	180534	62768	19986	84642	4062	18864	1010	k__Bacteria;p__Cyanobacteria;c__Oxyphotobacteria
+OTU_6	12829	31932	23906	25594	28213	25834	14307	26952	k__Bacteria;p__Proteobacteria;c__Unclassified
+OTU_7	5613	12197	12622	8934	13075	14379	8291	66990	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria
+OTU_8	23075	9102	2022	33709	2635	2937	30589	571	k__Bacteria;p__Planctomycetes;c__Phycisphaerae
+OTU_9	2118	12976	3229	2705	5285	11568	1989	596	k__Bacteria;p__Verrucomicrobia;c__Verrucomicrobiae
+OTU_10	20395	3046	1215	31649	2489	344	57322	416	k__Bacteria;p__Bacteroidetes;c__Ignavibacteria
+OTU_11	3434	12284	9330	4680	14258	11330	2079	8916	k__Bacteria;p__Bacteroidetes;c__Bacteroidia
+OTU_12	1505	4437	6517	2908	4369	11767	539	1728	k__Bacteria;p__Actinobacteria;c__Actinobacteria
+OTU_13	42800	936	785	25566	845	359	44703	187	k__Bacteria;p__Chloroflexi;c__Anaerolineae
+OTU_14	1696	3182	5134	3541	3144	19718	787	11592	k__Bacteria;p__Actinobacteria;c__Actinobacteria
+OTU_15	1380	2439	2549	7232	4917	18332	762	3741	k__Bacteria;p__Cyanobacteria;c__Oxyphotobacteria
+OTU_16	1103	751	1016	2147	1452	4217	2679	167403	k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria
+OTU_17	2919	13318	13238	7058	16873	12042	2784	949	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria
+OTU_18	3118	14143	10494	7029	13641	1659	2308	268	k__Bacteria;p__Acidobacteria;c__Unclassified
+OTU_19	14640	5301	1285	19305	1819	3503	19983	335	k__Bacteria;p__Planctomycetes;c__Phycisphaerae
+OTU_20	1337	38205	21576	2830	34490	72	2621	86	k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria
+OTU_21	1136	4355	2810	1082	4170	8707	713	637	

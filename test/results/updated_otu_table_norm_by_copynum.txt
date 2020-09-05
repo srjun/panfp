@@ -1,0 +1,19 @@
+#OTU ID	S1	S2	S3	S4	S5	S6	S7	S8	Taxon
+OTU_3	2942	11812	14315	5493	13490	82518	2432	21946	k:Bacteria;p:Cyanobacteria
+OTU_4	53608	20539	10617	76357	15382	1254	73519	542	k:Bacteria;p:Chloroflexi;c:Anaerolineae
+OTU_5	9156	90267	31384	9993	42321	2031	9432	505	k:Bacteria;p:Cyanobacteria
+OTU_6	4276	10644	7968	8531	9404	8611	4769	8984	k:Bacteria;p:Proteobacteria
+OTU_7	801	1742	1803	1276	1867	2054	1184	9570	k:Bacteria;p:Proteobacteria;c:Gammaproteobacteria
+OTU_8	23075	9102	2022	33709	2635	2937	30589	571	k:Bacteria;p:Planctomycetes;c:Phycisphaerae
+OTU_9	706	4325	1076	901	1761	3856	663	198	k:Bacteria;p:Verrucomicrobia;c:Verrucomicrobiae
+OTU_10	20395	3046	1215	31649	2489	344	57322	416	k:Bacteria;p:Ignavibacteriae;c:Ignavibacteria
+OTU_11	858	3071	2332	1170	3564	2832	519	2229	k:Bacteria;p:Bacteroidetes;c:Bacteroidia
+OTU_12	501	1479	2172	969	1456	3922	179	576	k:Bacteria;p:Actinobacteria;c:Actinobacteria
+OTU_13	21400	468	392	12783	422	179	22351	93	k:Bacteria;p:Chloroflexi;c:Anaerolineae
+OTU_14	565	1060	1711	1180	1048	6572	262	3864	k:Bacteria;p:Actinobacteria;c:Actinobacteria
+OTU_15	690	1219	1274	3616	2458	9166	381	1870	k:Bacteria;p:Cyanobacteria
+OTU_16	551	375	508	1073	726	2108	1339	83701	k:Bacteria;p:Proteobacteria;c:Alphaproteobacteria
+OTU_17	417	1902	1891	1008	2410	1720	397	135	k:Bacteria;p:Proteobacteria;c:Gammaproteobacteria
+OTU_18	3118	14143	10494	7029	13641	1659	2308	268	k:Bacteria;p:Acidobacteria
+OTU_19	14640	5301	1285	19305	1819	3503	19983	335	k:Bacteria;p:Planctomycetes;c:Phycisphaerae
+OTU_20	668	19102	10788	1415	17245	36	1310	43	k:Bacteria;p:Proteobacteria;c:Alphaproteobacteria

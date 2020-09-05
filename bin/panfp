@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+
+# [2020] - Se-Ran Jun - All Rights Reserved
+
+import sys
+
+sys.path.insert(0, './') 
+
+from panfp.panfp import run_panfp
+
+if __name__ == "__main__":
+    run_panfp()

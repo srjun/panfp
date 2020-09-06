@@ -49,10 +49,7 @@ def update_otu_sample_table(i, d, o):
 
     db_lineages = {} # it should be up to species
     for lineage in dbs.loc[:, dbs.columns[-1]]:
-        if lineage in db_lineages:
-            db_lineages[lineage] += 1
-        else:
-            db_lineages[lineage] = 1
+        db_lineages[lineage] = db_lineages.get(lineage, 0) + 1
     print('the number of database lineages = ' + str(len(db_lineages.keys())))
 
     # modify and trim otu lineages so that the resulting lineages are compatible with

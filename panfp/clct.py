@@ -30,10 +30,7 @@ def calculate_lineage_copynum_table(i, d, o):
     otu_lineages = {} # the last taxon should not be undef
     for otu in otutab.index:
         lineage = otutab.loc[otu, otutab.columns[-1]]
-        if lineage in otu_lineages:
-            otu_lineages[lineage] += 1
-        else:
-            otu_lineages[lineage] = 1
+        otu_lineages[lineage] = otu_lineages.get(lineage, 0) + 1
 
     # make copy number distribution for each lineage
     ridx = 0

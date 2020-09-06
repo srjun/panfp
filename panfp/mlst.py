@@ -24,10 +24,7 @@ def make_lineage_sample_table(i, o):
     otu_lineages = {} # the last taxon should not be undef
     for otu in otutab.index:
         lineage = otutab.loc[otu, otutab.columns[-1]]
-        if lineage in otu_lineages:
-            otu_lineages[lineage] += 1
-        else:
-            otu_lineages[lineage] = 1
+        otu_lineages[lineage] = otu_lineages.get(lineage, 0) + 1
     print('the number of lineages = ' + str(len(otu_lineages)))
 
     # convert an otu-sample table into a lineage-sample table

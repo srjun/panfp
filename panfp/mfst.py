@@ -68,18 +68,6 @@ def make_function_sample_table(i, f, o):
 
     # make a function sample table by plug-in lineages' functional profiles after normalizing
     # the occurrence of functional terms by the number of organisms belonging to lineages
-
-    #funcsampletab = pd.DataFrame(index=sorted_all_funcs, columns=samples, dtype='float64')
-    #funcsampletab.index.name = 'function'
-    #for func in sorted_all_funcs:
-    #    for sample in samples:
-    #
-    #        funcsampletab.loc[func, sample] = 0.0
-    #        for lineage in lineagesampletab.index:
-    #            if func in lineage_func[lineage]:
-    #                val = lineagesampletab.loc[lineage, sample] * lineage_func[lineage][func]
-    #                funcsampletab.loc[func, sample] += val
-
     lineage_func_m = lineage_func_df.to_numpy()
     func_lineage_m = lineage_func_m.transpose()
     lineage_sample_m = lineagesampletab.to_numpy()
@@ -96,9 +84,9 @@ def make_function_sample_table(i, f, o):
     funcsampletab_df.to_csv(o, header=True, index=True, sep='\t', mode='w', float_format='%.7f')
 
     time_end = datetime.datetime.now()
-    print(time_end)
+    #print(time_end)
     time_elapsed = time_end - time_start
-    print(time_elapsed)
+    #print(time_elapsed)
 
 
 if __name__ == '__main__':

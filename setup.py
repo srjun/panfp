@@ -11,6 +11,6 @@ setup(name='panfp',
       author='Se-Ran Jun',
       author_email= 'seran.jun@gmail.com',
       install_requests=requirements,
-      version= '1.1.1',
+      version= '1.1.2',
       packages=['panfp'],
       scripts=['bin/panfp'])

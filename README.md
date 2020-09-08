@@ -74,7 +74,7 @@ The following files are generated in the following order:
 
 ## Contact
 
-This project has been fully developed at the group of [Translational Bioinformatics - Jun Lab](http://www.srjun.XXX.XXX).
+This project has been fully developed at the group of [Translational Bioinformatics - Jun Lab](http://abc.srjun.tbi.org).
 
 If you experience any problem at any step involving the program, you can use the 'Issues' page of this repository or contact: [Se-Ran Jun](mailto:seran.jun@gmail.com)
 
